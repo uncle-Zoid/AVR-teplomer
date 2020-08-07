@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Teplomer", "Teplomer\Teplomer.cproj", "{F2C7B904-4540-479D-AED1-1D52D22C8AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C7B904-4540-479D-AED1-1D52D22C8AA2}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F2C7B904-4540-479D-AED1-1D52D22C8AA2}.Debug|AVR.Build.0 = Debug|AVR
+		{F2C7B904-4540-479D-AED1-1D52D22C8AA2}.Release|AVR.ActiveCfg = Release|AVR
+		{F2C7B904-4540-479D-AED1-1D52D22C8AA2}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
